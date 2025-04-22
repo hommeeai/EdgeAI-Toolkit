@@ -91,6 +91,6 @@
 
 ## 联系方式
 
-- 官网：https://www.aidrive-tech.com
-- 邮箱：support@aidrive-tech.com
+- 官网：https://www.hommeeai.com
+- 邮箱：zengjie@hommeeai.com
 
